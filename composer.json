@@ -2,6 +2,6 @@
   "name": "texanhogman/acme-extension",
   "description": "sample 3rd party extension banking on backward compatibility",
 "require": {
-    "texanhogman/module-a": "~1.0"
+    "texanhogman/module-a": "~2.0"
   }
 }
