@@ -1,0 +1,8 @@
+{
+  "name": "texanhogman/acme-extension",
+  "description": "sample 3rd party extension banking on backward compatibility",
+"require": {
+    "php": ">=5.4.11",
+    "texanhogman/module-a": "~1.0"
+  },
+}
